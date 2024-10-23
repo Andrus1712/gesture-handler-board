@@ -1,5 +1,5 @@
 function AnimatedComponent() {
-    return <></>
+  return <></>;
 }
 
 export default AnimatedComponent;
